@@ -1,0 +1,8 @@
+{
+  "siteId": 1812,
+  "namespace": "deco-sites/ecommercetp",
+  "imports": [
+    "$live/live.gen.ts",
+    "deco-sites/std/live.gen.ts"
+  ]
+}
